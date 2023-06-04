@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "todo-app-ved",
-    "staging": "todo-app-ved"
-  },
-  "targets": {},
-  "etags": {}
-}
